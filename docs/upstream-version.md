@@ -10,6 +10,7 @@ title: 上游版本 · DSH 更新动态
 
 | 版本号 | GitHub 发布 | npm 发布 | 更新说明 |
 | --- | --- | --- | --- |
+| [dsh-v0.2.1-rc.5](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.5) | 2026-10-30 | 2026-10-29 | [点击查看](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.5) |
 | [dsh-v0.2.2-alpha.2](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.2-alpha.2) | 2026-10-28 | 2026-10-27 | [点击查看](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.2-alpha.2) |
 | [dsh-v0.2.1-rc.4](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.4) | 2026-10-28 | 2026-10-26 | [点击查看](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.4) |
 | [dsh-v0.2.1-rc.3](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.3) | 2026-10-23 | 2026-10-23 | [点击查看](https://github.com/deepseek-ai/deepseek-harness/releases/tag/dsh-v0.2.1-rc.3) |
